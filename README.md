@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AyangMaria
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS and PHP
-- 💞️ I’m looking to collaborate on various web development projects
+- 🌱 I’m currently learning HTML, CSS and other relevant technologies
+- 💞️ I’m looking to collaborate on various insightful projects
 - 📫 How to reach me ...
 
 <!---
