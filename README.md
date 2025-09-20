@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyangMaria
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS and other relevant technologies
+- 🌱 I’m currently learning Vue Js,HTML, CSS and other relevant technologies
 - 💞️ I’m looking to collaborate on various insightful projects
 - 📫 How to reach me ...
 
