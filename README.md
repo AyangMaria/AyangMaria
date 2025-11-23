@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AyangMaria
-- 👀 Frontend Developer | Vue js | React | Tailwind 
+- 👀 Frontend Developer | Vue js | React | TypeScript | Tailwind 
 - 🌱 I’m passionate about building responsive, user-friendly web applications and turning designs into seamless, interactive interfaces. I do all of these with leverage on necessary modern frameworks.
 - 💞️ I’m eager to contribute to innovative and impactful projects that enhance user experience and performance.
 - 📫 How to reach me ...E-mail: ayangmaria82@gmail.com
